@@ -1,0 +1,7 @@
+torch>=2.0
+torch-geometric>=2.6
+gensim
+scikit-learn
+pandas
+numpy<2.0
+streamlit
